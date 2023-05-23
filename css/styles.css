@@ -241,6 +241,10 @@ h3 {
     margin-right: 35px;
 }
 
+.product__icons a {
+    height: fit-content;
+}
+
 .product__icons_favorite {
     margin-right: 20px;
 }
